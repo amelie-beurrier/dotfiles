@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = abeurrier@gmail.com
+	name = Amelie Beurrier
